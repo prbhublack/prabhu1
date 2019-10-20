@@ -7,7 +7,9 @@ public class EmpFull extends Project {
 
 
 	}
+	
 	public static void main(String[] args) {
+		System.out.println("new change");
 		EmpFull uy=new EmpFull();
 		uy.empFull();
 		uy.projectName();
